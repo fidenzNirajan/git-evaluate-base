@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 Hurray, I have now  created a new file
+
+Hi, new line 1
+
+Hi, new line 2
+
+Hi, new line 3
+
+Hi, new line 4
+
