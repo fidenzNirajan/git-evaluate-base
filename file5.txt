@@ -9,3 +9,4 @@ Hi, new line 3
 
 Hi, new line 4
 
+Change for moving to master without merge
